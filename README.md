@@ -15,9 +15,9 @@ No momento, estou aprofundando meus estudos em Java com Spring Boot e iniciando 
 ## 🐍 Minhas contribuições  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Robizuu/Robizuu/blob/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Robizuu/Robizuu/blob/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/Robizuu/Robizuu/blob/output/dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robizuu/Robizuu/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Robizuu/Robizuu/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Robizuu/Robizuu/output/dist/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 📬 Contatos  
