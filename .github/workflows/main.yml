@@ -12,12 +12,12 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate Snake
-        uses: Platane/snk@main
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Robizuu
           outputs: dist/github-contribution-grid-snake.svg
-          snake_color: "#242424"    
-          background_color: "#E0E0E0" 
+          snake_color: "#242424"        # quadrados pretos
+          background_color: "#E0E0E0"   # fundo cinza (opcional)
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
