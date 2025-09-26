@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 */12 * * *" # Executa a cada 12 horas
   workflow_dispatch: # Permite rodar manualmente
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -18,7 +15,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Robizuu
-          outputs: dist/snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
